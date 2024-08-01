@@ -15,4 +15,4 @@
 
 ### 5. Configure an EC2 instance using your desired settings and host the `Web` folder.
 
-## Short Note: This application will not work locally as it has been optimized to worked on AWS using services like EC2, S3, DynamoDB and Lambda. Please put in mind that this application is not a cost-optimized way to run an application on cloud, it is just for demonstrating my knowledge and understanding in some basic AWS services.
+#### Short Note: This application will not work locally as it has been optimized to worked on AWS using services like EC2, S3, DynamoDB and Lambda. Please put in mind that this application is not a cost-optimized way to run an application on cloud, it is just for demonstrating my knowledge and understanding in some basic AWS services.
